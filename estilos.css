@@ -1,0 +1,50 @@
+*
+{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	
+	
+}
+nav{
+    text-align: center;
+}
+nav a {
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.locales{
+    color: red;
+}
+
+#pedir{
+    width: 100%;
+}
+
+.imgi{
+    flex-basis: 50%;
+}
+
+
+.flex-imagenindex{
+display: flex;
+flex-wrap: wrap;
+}
+
+
+.textofoo{
+    flex-basis: 27%;
+}
+
+
+
+.flex-footer{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.facebookfooter{
+    height: 100px;
+}
